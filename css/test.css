@@ -1,4 +1,6 @@
 body {
+    width: 100px;
+    height: 100px;
     background: lightblue;
     color: blue;
     font-size: 20px;
